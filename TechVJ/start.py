@@ -32,8 +32,8 @@ async def start(bot: Client, msg: Message):
             [[
                 InlineKeyboardButton(text="⚡ Generate String Session ⚡", callback_data="generate")
             ],[
-                InlineKeyboardButton("❣️ Support Group ❣️", url="https://t.me/VJ_Bot_Disscussion"),
-                InlineKeyboardButton("🥀 Update Channel 🥀", url="https://t.me/VJ_Botz")
+                InlineKeyboardButton("❣️ Support Group ❣️", url="https://t.me/khaanmovieschat"),
+                InlineKeyboardButton("🥀 Update Channel 🥀", url="https://t.me/khaanfilmsmovies")
             ]]
         )
     )
