@@ -5,7 +5,7 @@ API_ID = int(environ.get("API_ID", "17461958"))
 API_HASH = environ.get("API_HASH", "0f083cb4779252f82b99f5c644274624")
 
 # Your Main Bot Token 
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7826334394:AAEoq0uOycdMJ4-R41icJIfq0tLXRgnYNJw")
 
 # Owner ID For Broadcasting 
 OWNER_ID = int(environ.get("OWNER_ID", "2081516065")) # Owner Id or Admin Id
